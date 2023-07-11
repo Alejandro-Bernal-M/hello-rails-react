@@ -95,7 +95,7 @@ To start the server, execute the following command:
 then:
 `rails server`
 
-
+go to 'http://localhost:3000/greeting'
 
 <!-- AUTHORS -->
 
